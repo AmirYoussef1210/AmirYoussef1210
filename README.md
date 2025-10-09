@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### About me 👤
+👨‍🎓 High school student and a passionate proggramer. 
+
+🖥️ I'm focused on cybersecurity, Networking, Cryptography and Backend engineering.
+
+🌱   I participate in Magshimim and Nitzanin programs. Currently build a project about a E2EE encryption and security.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirYoussef1210&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **AmirYoussef1210/AmirYoussef1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
